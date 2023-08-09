@@ -27,7 +27,9 @@ I am currently a Ph.D. candidate in Optical Engineering at Zhejiang University. 
 
 I previously received my bachelor's degree from Nanjing University of Science and Technology and spent three fruitful years (2018-2020) at [SCIlab](https://www.scilaboratory.com/), and I am grateful to Prof. [Chao Zuo](https://scholar.google.com/citations?user=vdi8IicAAAAJ&hl=zh-CN&oi=ao) for allowing me to experience the attractiveness of computational imaging.
 
-I am now working primarily in computational spectral imaging, and our imaging system is mainly based on the principle of encoding-reconstruction. We are committed to realizing lightweight, portable and snapshot spectral imaging systems.
+I am now working primarily in computational spectral imaging, and our imaging system is mainly based on the principle of encoding and reconstruction. We are committed to realizing lightweight, portable and snapshot spectral imaging systems.
+
+**Research interest:** Computational Spectral Imaging, Diffractive imaging, Deep Learning
 
 ---
 ### Publications
