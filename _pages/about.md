@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ImagingLab@ZJU.</a>. (Under Construction)
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China
 
-Email: xuhao_optics [at] zju.edu.cn
+Email: xuhao_optics@zju.edu.cn
 
 I am currently a Ph.D. candidate in Optical Engineering at Zhejiang University. My supervisor is Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108) and my co-supervisor is Prof. [Huajun Feng](https://person.zju.edu.cn/0086127). According to schedule, I will receive my Ph.D. in June 2025.
 
