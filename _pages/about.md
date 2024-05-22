@@ -35,23 +35,27 @@ I am now working primarily in computational spectral imaging, and our imaging sy
 
 ### Publications
 
-1. **Xu H**, Hu H, Chen S, et al. Hyperspectral image reconstruction based on the fusion of diffracted rotation blurred and clear images[J]. Optics and Lasers in Engineering, 2023, 160: 107274. [Link](https://www.sciencedirect.com/science/article/pii/S014381662200327X)
+1. Hu H, Xu N, **Xu H**, et al. Mid-wave infrared multispectral imaging by DOE[J]. Infrared Physics & Technology, 2024: 105198. [Link](https://www.sciencedirect.com/science/article/pii/S1350449524000823)
 
-2. **Xu H**, Yang J, Hu H, et al. Fast non-iterative blind restoration of hyperspectral images with spectrally-varying PSFs[J]. Optics Communications, 2023, 530: 129163. [Link](https://www.sciencedirect.com/science/article/pii/S0030401822008100)
+2. **Xu H**, Chen S, Hu H, et al. Wavelength encoding spectral imaging based on the combination of deeply learned filters and an RGB camera[J]. Optics Express, 2024, 32(7): 10741-10760. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-7-10741&id=547803)
 
-3. **Xu H**, Jiang T, Hu H, et al. Optimization Method for Snapshot Hyperspectral Imaging System Based on Diffractive Rotation[J]. Acta Optica Sinica, 2022, 42(17): 1711001(in chinese) [Link](https://www.opticsjournal.net/Articles/OJ19067892a7ed55a8/Abstract)
+3. **Xu H**, Hu H, Chen S, et al. Hyperspectral image reconstruction based on the fusion of diffracted rotation blurred and clear images[J]. Optics and Lasers in Engineering, 2023, 160: 107274. [Link](https://www.sciencedirect.com/science/article/pii/S014381662200327X)
 
-4. Hu H, **Xu H**, Chen Y, et al. Fast method for designing broadband achromatic diffractive optical elements[J]. Optics Express, 2022, 30(19): 33926-33939. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-19-33926&id=497672)
+4. **Xu H**, Yang J, Hu H, et al. Fast non-iterative blind restoration of hyperspectral images with spectrally-varying PSFs[J]. Optics Communications, 2023, 530: 129163. [Link](https://www.sciencedirect.com/science/article/pii/S0030401822008100)
 
-5. Xu N, **Xu H**, Chen S, et al. Snapshot hyperspectral imaging based on equalization designed DOE[J]. Optics Express, 2023, 31(12): 20489-20504. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20489&id=531203)
+5. **Xu H**, Jiang T, Hu H, et al. Optimization Method for Snapshot Hyperspectral Imaging System Based on Diffractive Rotation[J]. Acta Optica Sinica, 2022, 42(17): 1711001(in chinese) [Link](https://www.opticsjournal.net/Articles/OJ19067892a7ed55a8/Abstract)
 
-6. Lv G, **Xu H**, Feng H, et al. A Full-Aperture Image Synthesis Method for the Rotating Rectangular Aperture System Using Fourier Spectrum Restoration[C]//Photonics. MDPI, 2021, 8(11): 522 [Link](https://www.mdpi.com/2304-6732/8/11/522)
+6. Hu H, **Xu H**, Chen Y, et al. Fast method for designing broadband achromatic diffractive optical elements[J]. Optics Express, 2022, 30(19): 33926-33939. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-19-33926&id=497672)
 
-7. **Xu H**, Yin W, Yang C, et al. Full-surface 3-D reconstruction based on surround structured lighting[C]//Seventh International Conference on Optical and Photonic Engineering (icOPEN 2019). SPIE, 2019, 11205: 462-466. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11205/1120527/Full-surface-3-D-reconstruction-based-on-surround-structured-lighting/10.1117/12.2548032.short?SSO=1)
+7. Xu N, **Xu H**, Chen S, et al. Snapshot hyperspectral imaging based on equalization designed DOE[J]. Optics Express, 2023, 31(12): 20489-20504. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20489&id=531203)
 
-8. Wang B, **Xu H**, Sun J, et al. Super resolution imaging method based on the synthetic aperture system[C]//Optics Frontier Online 2020: Optics Imaging and Display. SPIE, 2020, 11571: 178-184. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11571/115710Q/Super-resolution-imaging-method-based-on-the-synthetic-aperture-system/10.1117/12.2580282.short?SSO=1)
+8. Lv G, **Xu H**, Feng H, et al. A Full-Aperture Image Synthesis Method for the Rotating Rectangular Aperture System Using Fourier Spectrum Restoration[C]//Photonics. MDPI, 2021, 8(11): 522 [Link](https://www.mdpi.com/2304-6732/8/11/522)
 
-9. Yang C, Yin W, **Xu H**, et al. Single-shot 3D shape measurement with spatial frequency multiplexing using deep learning[C]//Optical Metrology and Inspection for Industrial Applications VI. SPIE, 2019, 11189: 334-339. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11189/111891P/Single-shot-3D-shape-measurement-with-spatial-frequency-multiplexing-using/10.1117/12.2537732.short)
+9. **Xu H**, Yin W, Yang C, et al. Full-surface 3-D reconstruction based on surround structured lighting[C]//Seventh International Conference on Optical and Photonic Engineering (icOPEN 2019). SPIE, 2019, 11205: 462-466. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11205/1120527/Full-surface-3-D-reconstruction-based-on-surround-structured-lighting/10.1117/12.2548032.short?SSO=1)
+
+10. Wang B, **Xu H**, Sun J, et al. Super resolution imaging method based on the synthetic aperture system[C]//Optics Frontier Online 2020: Optics Imaging and Display. SPIE, 2020, 11571: 178-184. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11571/115710Q/Super-resolution-imaging-method-based-on-the-synthetic-aperture-system/10.1117/12.2580282.short?SSO=1)
+
+11. Yang C, Yin W, **Xu H**, et al. Single-shot 3D shape measurement with spatial frequency multiplexing using deep learning[C]//Optical Metrology and Inspection for Industrial Applications VI. SPIE, 2019, 11189: 334-339. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11189/111891P/Single-shot-3D-shape-measurement-with-spatial-frequency-multiplexing-using/10.1117/12.2537732.short)
 
 
 <!-- 
