@@ -35,6 +35,8 @@ I am now working primarily in computational spectral imaging, and our imaging sy
 
 ### Publications
 
+1. Zhuge Z, **Xu H**, Chen S, et al. Calibration-free deep optics for depth estimation with precise simulation[J]. Optics and Lasers in Engineering, 2024, 180: 108313. [Link](https://www.sciencedirect.com/science/article/pii/S0143816624002926)
+
 1. Hu H, Xu N, **Xu H**, et al. Mid-wave infrared multispectral imaging by DOE[J]. Infrared Physics & Technology, 2024: 105198. [Link](https://www.sciencedirect.com/science/article/pii/S1350449524000823)
 
 2. **Xu H**, Chen S, Hu H, et al. Wavelength encoding spectral imaging based on the combination of deeply learned filters and an RGB camera[J]. Optics Express, 2024, 32(7): 10741-10760. [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-7-10741&id=547803)
